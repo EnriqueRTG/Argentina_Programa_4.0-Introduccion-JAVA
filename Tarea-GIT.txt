@@ -3,3 +3,5 @@ Realizando cambio en el archivo
 Modificacion del archivo local
 Realizando modificacion en el archivo
 -Modificando localmente para ver si existe conflico
+-Modificando remotamente para ver si existe conflicto
+*Si se realiza la modificacion en el mismo archivo, existira conflictos al realizar el PULL
